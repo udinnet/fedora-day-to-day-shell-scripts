@@ -1,4 +1,4 @@
-fedora_day_to_day_shell_scripts
+Fedora day to day shell scripts
 ===============================
 
 Shell scripts that will be useful in day to day fedora activities
